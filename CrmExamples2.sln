@@ -7,6 +7,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientExtensions", "ClientE
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRMExtensions", "CRMExtensions\CRMExtensions.csproj", "{1FEE89E4-8CDD-4BB6-850E-4176EEBF6A18}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PRESENTATION", "PRESENTATION", "{21AD76CF-CB2C-4078-88F6-5A6DB2BE899D}"
+	ProjectSection(SolutionItems) = preProject
+		PRESENTATION\Developing with Dynamics 365.pptx = PRESENTATION\Developing with Dynamics 365.pptx
+		PRESENTATION\forecast.gif = PRESENTATION\forecast.gif
+		PRESENTATION\MeetupManagement_1_0.zip = PRESENTATION\MeetupManagement_1_0.zip
+		PRESENTATION\MeetupManagement_1_0_managed.zip = PRESENTATION\MeetupManagement_1_0_managed.zip
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
